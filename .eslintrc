@@ -28,6 +28,11 @@
                     ".jsx"
                 ]
             }
-        ]
+        ],
+        "no-underscore-dangle": {
+            "allow": [
+                "_id"
+            ]
+        }
     }
 }
